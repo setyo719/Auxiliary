@@ -1,0 +1,4 @@
+# Auxiliary
+
+
+FLASK PROJECT
